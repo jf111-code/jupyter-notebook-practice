@@ -16,6 +16,8 @@ I’m building practical skills in Python and data analysis while developing a p
 
 ## Notebooks
 - [Chapter 1 Notebook](notebooks/chapter1-first-notebook.ipynb)
+- [Chapter 2 Markdown Practice](notebooks/chapter2-markdown-practice.ipynb)
+
 
 ## Why this repo
 I’m using this repository to learn in public, build consistency, and create a body of work I can reference in future job opportunities.
