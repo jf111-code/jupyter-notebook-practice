@@ -1,12 +1,5 @@
-# Jupyter Notebook Practice
+## Jupyter Notebook Practice
 
-This repository contains my practice work as I learn Jupyter Notebooks.
+This repository documents my hands-on learning of Jupyter Notebooks, combining code, Markdown, and analysis in a structured, project-based approach.
 
-## Current focus
-- creating notebooks
-- running code cells
-- using Markdown and code together
-- building notebook-based projects for GitHub
-
-## Notebooks
-- `notebooks/chapter1-first-notebook.ipynb`
+I’m building practical skills in Python and data analysis while developing a portfolio of notebook-based work.
